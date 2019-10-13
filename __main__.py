@@ -10,7 +10,3 @@ else:
     from WebParse.get_episodes import get_episodes
     get_episodes()
     import Interface.start_dialogue
-
-#TODO -- PyPi -- Repackage -- Set Top level as package -- import __main__  ??
-#TODO -- Git Hub ?  
-#TODO -- Kill DB before publishing
