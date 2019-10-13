@@ -32,6 +32,9 @@ After the initial launch it will use that initial build to record your collectio
 
 To launch from the command line run the __main__.py in the parent folder. 
 
+This project was built to test some base python skills. Overall the project has some 
+rough edges. Any and all feed back is welcome. 
+
 Enjoy. 
 
 Thank You 
